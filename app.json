@@ -45,7 +45,7 @@
         "value": ""
       },
       "PRIVATE_START_MESSAGE": {
-        "description": "A welcome message for your bot when someone starts it",
+        "description": "Hey 👋 I Am A Chat Bot . My Name Is Vexera Chat Bot . Just Add Me In Your Group",
         "required": true,
         "value": ""
       },
